@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lux Meter</string>
+    <string name="sensor_invalid">Sensor invalid</string>
+    <string name="illuminance_lux">Illuminance/lux</string>
+    <string name="hold">Hold</string>
+    <string name="release">Release</string>
+</resources>
